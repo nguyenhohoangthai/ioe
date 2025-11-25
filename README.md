@@ -1,6 +1,9 @@
 # 📚 IOE TOOL
 Công cụ hỗ trợ làm bài tập IOE một cách tự động và hiệu quả.
 
+## Link hướng dẫn sử dụng
+[https://facebook.com]
+
 ## 👤 Tác giả
 Một học sinh tại Cần Thơ  
 📩 **Liên hệ:**  
